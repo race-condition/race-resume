@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://racebrocx.com/"
+baseurl = "http://www.racebrocx.com/"
 languageCode = "en-us"
 title = "John Doe Resume"
 theme = "hugo-orbit-theme"
