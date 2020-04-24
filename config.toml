@@ -67,42 +67,29 @@ disable404 = true
         icon = "fa-github"
         url = "//github.com/race-condition"
         title = "github.com/race-condition"
-        
+
     # Education section
     [params.education]
         enable = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        college = "University of London"
-        dates = "2006 - 2010"
-
-        [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
+        degree = "BSc in Computer Science"
+        college = "University of Washington"
+        dates = "2015"
 
     # Languages section
     [params.language]
-        enable = true
+        enable = false
         title = "Languages"
 
         [[params.language.list]]
         language = "English"
         level = "Native"
 
-        [[params.language.list]]
-        language = "French"
-        level = "Professional"
-
-        [[params.language.list]]
-        language = "Russian"
-        level = "Professional"
-
     # Interests section
     [params.interests]
-        enable = true
+        enable = false
         title = "Interests"
 
         [[params.interests.list]]
@@ -123,7 +110,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "Over four years of professional development experience primarily focusing on Java."
 
     # Experiences section
     [params.experiences]
@@ -132,22 +119,22 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "Software Engineer 2"
+        dates = "2018 - Present"
+        company = "Nordstrom"
+        details = "Built microservices processing thousands of messages received through Kafka. Created REST API to serve data to services adding data to streaming messages. Built Incident Automator, which automates the processes involved in correlating incidents in the NOC (JavaScript, ServiceNow, Go)"
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Site Reliability Engineer"
+        dates = "2017 - 2018"
+        company = "Eagleview"
+        details = "Modified existing software to correct errors, upgrade interfaces and improve performance (.NET Core, TFS, Jenkins)"
 
         [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Site Reliability Engineer"
+        dates = "2015 - 2017"
+        company = "Microsoft"
+        details = "Implemented designs, including experimentation and multiple iterations for development projects utilizing .NET and TFS"
 
     # Projects section
     [params.projects]
