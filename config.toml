@@ -2,7 +2,7 @@
 
 baseurl = "http://www.racebrocx.com/"
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "Race Brocx Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
