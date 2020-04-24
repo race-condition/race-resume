@@ -30,7 +30,7 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "John Doe"
+        name = "Race Brocx"
         tagline = "Full Stack Developer"
         avatar = "profile.png"
 
@@ -41,39 +41,33 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: yourname@email.com"
-        title = "john.doe@website.com"
+        url = "mailto: race.brocx@gmail.com"
+        title = "race.brocx@gmail.com"
 
         [[params.contact.list]]
         class = "phone"
         icon = "fa-phone"
-        url = "tel:+1234567890"
-        title = "+1234567890"
+        url = "tel:+4253547981"
+        title = "+4253547981"
 
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "//racebrocx.com"
+        title = "racebrocx.com"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        url = "//linkedin.com/in/race-brocx-441b3564/"
+        title = "linkedin.com/in/race-brocx-441b3564/"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
-
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
-
+        url = "//github.com/race-condition"
+        title = "github.com/race-condition"
+        
     # Education section
     [params.education]
         enable = true
