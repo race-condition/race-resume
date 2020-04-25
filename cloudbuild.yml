@@ -1,3 +1,3 @@
 steps:
   - name: gcr.io/cloud-builders/gsutil
-    args: ["-m", "rsync", "-r", "-d", ".", "gs://www.racebrocx.com"]
+    args: ["-m", "-h", "Cache-Control:no-cache, max-age=0", "rsync", "-r", "-d", "./public", "gs://www.racebrocx.com"]
