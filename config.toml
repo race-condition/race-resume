@@ -141,32 +141,22 @@ disable404 = true
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        intro = ""
 
         [[params.projects.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        title = "Enterprise Event Ledger Service"
+        url = ""
+        tagline = "REST API for accessing transaction data for Nordstrom"
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Incident Automator"
+        url = ""
+        tagline = "Automates the tasks involved with responditing to high priority incidents for Nordstrom Operations Center"
 
         [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
-
-        [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
-
-        [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
+        title = "Report Add on Generator"
+        url = ""
+        tagline = "Automates the process of generating add-ons and modifying Eagleview roof reports"
 
     # Skills section
     [params.skills]
@@ -175,28 +165,28 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
-                
-        [[params.skills.list]]
-        skill = "Javascript & jQuery"
+        skill = "Java"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+         skill = "C#"
+         level = "95%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "Go"
+        level = "78%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "75%"
+        skill = "Kafka"
+        level = "55%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "C++"
+        level = "40%"
+
+        [[params.skills.list]]
+        skill = "Javascript"
+        level = "35%"
 
     # Footer section
 
