@@ -30,7 +30,7 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "Race Test Brocx"
+        name = "Race Brocx"
         tagline = "Software Engineer"
         avatar = "profile.png"
 
