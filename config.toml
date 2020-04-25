@@ -74,7 +74,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "BSc in Computer Science"
+        degree = "BS in Computer Science"
         college = "University of Washington"
         dates = "2015"
 
@@ -95,12 +95,6 @@ disable404 = true
         [[params.interests.list]]
         interest = "Climbing"
 
-        [[params.interests.list]]
-        interest = "Snowboarding"
-
-        [[params.interests.list]]
-        interest = "Cooking"
-
 # Main body sections
 
     # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
@@ -119,7 +113,7 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Software Engineer 2"
+        position = "Software Engineer 1-2"
         dates = "2018 - Present"
         company = "Nordstrom"
         details = "Built microservices processing thousands of messages received through Kafka. Created REST API to serve data to services adding data to streaming messages. Built Incident Automator, which automates the processes involved in correlating incidents in the NOC (JavaScript, ServiceNow, Go)"
