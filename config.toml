@@ -74,7 +74,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "BS in Computer Science"
+        degree = "BSc in Computer Science"
         college = "University of Washington"
         dates = "2015"
 
@@ -104,7 +104,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Over four years of professional development experience primarily focusing on Java."
+        summary = "Over four years of professional experience primarily focusing on Java, Go, and .Net development."
 
     # Experiences section
     [params.experiences]
@@ -116,19 +116,19 @@ disable404 = true
         position = "Software Engineer 1-2"
         dates = "2018 - Present"
         company = "Nordstrom"
-        details = "Built microservices processing thousands of messages received through Kafka. Created REST API to serve data to services adding data to streaming messages. Built Incident Automator, which automates the processes involved in correlating incidents in the NOC (JavaScript, ServiceNow, Go)"
+        details = "Created microservices used company-wide for processing messages received through Kafka at scale. Created data delivery REST API for implementation into a secure streaming message system. Designed and built “Incident Automator,” to streamline the intricate processes involved for incident correlation in the NOC. (Java, Go, JavaScript)"
 
         [[params.jobs.list]]
         position = "Site Reliability Engineer"
         dates = "2017 - 2018"
         company = "Eagleview"
-        details = "Modified existing software to correct errors, upgrade interfaces and improve performance (.NET Core, TFS, Jenkins)"
+        details = "Brought in to improve existing software. Made necessary changes to correct errors, upgrade interfaces, and improve service performance. (.NET Core, Jenkins)"
 
         [[params.jobs.list]]
         position = "Site Reliability Engineer"
         dates = "2015 - 2017"
         company = "Microsoft"
-        details = "Implemented designs, including experimentation and multiple iterations for development projects utilizing .NET and TFS"
+        details = "Worked on a team that was tasked with implementing advanced software designs for development projects utilizing .NET and TFS.  Project managers expected self-lead experimentation and measurable improvement through multiple iterations. (.NET)"
 
     # Projects section
     [params.projects]
