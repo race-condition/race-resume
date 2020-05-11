@@ -145,7 +145,7 @@ disable404 = true
         [[params.projects.list]]
         title = "Incident Automator"
         url = ""
-        tagline = "Automates the tasks involved with responditing to high priority incidents for Nordstrom Operations Center"
+        tagline = "Automates the tasks involved with responding to high priority incidents for Nordstrom Operations Center"
 
         [[params.projects.list]]
         title = "Report Add on Generator"
